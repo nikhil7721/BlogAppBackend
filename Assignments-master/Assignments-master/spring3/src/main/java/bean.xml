@@ -1,0 +1,16 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+           http://www.springframework.org/schema/beans/spring-beans.xsd"> 
+  
+	<!-- using constructor injection -->
+	<bean id="controller" class="SpringCore3.BankAccountcontroller"/>
+	<bean id="Account" class="SpringCore3.BankAccount" autowire="byType">  
+		<constructor-arg   value="1"/>
+		<constructor-arg  value="Himanshu"/>
+		<constructor-arg   value="Saving"/>
+		<constructor-arg   value="90000"/>  
+	</bean>  
+	
+	 
+</beans>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;WasherEntity.java&apos; to &apos;admin-management-1/src/main/java/com.admin.entity&apos;&#x0D;&#x0A;- Original project: &apos;washer-management&apos;&#x0D;&#x0A;- Destination element: &apos;admin-management-1/src/main/java/com.admin.entity&apos;&#x0D;&#x0A;- Original element: &apos;com.washer.entity.WasherEntity.java&apos;" description="Copy compilation unit" destination="=admin-management-1/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.admin.entity" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.washer.entity{WasherEntity.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1658745632838" units="1" version="1.0"/>
+</session>

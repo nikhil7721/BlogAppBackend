@@ -1,0 +1,15 @@
+package practice.p1;
+
+class Loan{
+Loan(){
+System.out.println("Inside loan");
+}
+}
+class HomeLoan extends Loan{
+void HomeLoan(){
+      super();
+    }
+public static void main(String args[]){
+HomeLone homeLoan=new HomeLoan();
+}
+}

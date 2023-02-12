@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=SpringSecurity/C:\/Users\/nnetajip\/.m2\/repository\/org\/springframework\/security\/spring-security-web\/5.7.2\/spring-security-web-5.7.2.jar=/maven.pomderived=/true=/=/maven.groupId=/org.springframework.security=/=/maven.artifactId=/spring-security-web=/=/maven.version=/5.7.2=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.springframework.security.web(AuthenticationEntryPoint.class[AuthenticationEntryPoint" modifiers="1537" timestamp="1658898112178"/>
+    <typeInfo handle="=Customer/C:\/Users\/nnetajip\/.m2\/repository\/antlr\/antlr\/2.7.7\/antlr-2.7.7.jar=/maven.pomderived=/true=/=/test=/true=/=/maven.groupId=/antlr=/=/maven.artifactId=/antlr=/=/maven.version=/2.7.7=/=/maven.scope=/runtime=/=/maven.pomderived=/true=/&lt;antlr.collections(List.class[List" modifiers="1537" timestamp="1637820212956"/>
+</typeInfoHistroy>

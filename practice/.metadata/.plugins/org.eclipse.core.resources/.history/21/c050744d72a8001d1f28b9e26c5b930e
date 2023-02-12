@@ -1,0 +1,8 @@
+package practice.p1;
+
+public class StringA {
+	String A=new String("Hello");
+	String B=new String("Hello");
+    System.out.println("");
+}
+}

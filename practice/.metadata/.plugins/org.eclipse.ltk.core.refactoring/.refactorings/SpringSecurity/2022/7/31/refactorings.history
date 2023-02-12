@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.security.entity.userEntity&apos; to &apos;UserEntity&apos;&#x0D;&#x0A;- Original project: &apos;SpringSecurity&apos;&#x0D;&#x0A;- Original element: &apos;com.security.entity.userEntity&apos;&#x0D;&#x0A;- Renamed element: &apos;com.security.entity.UserEntity&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;userEntity&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.security.entity{userEntity.java[userEntity" matchStrategy="1" name="UserEntity" qualified="false" references="true" similarDeclarations="false" stamp="1658901100103" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,13 @@
+package practice.p1;
+
+public class Pattern7{
+public static void main(String[] args){
+int i,j,lines=5;
+for(i=1;i<=lines;i++){
+   for(j=lines;j>0;j--){
+       System.out.print(i);
+}
+System.out.println("");
+}
+}
+}
